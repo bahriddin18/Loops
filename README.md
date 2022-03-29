@@ -2,7 +2,6 @@
 Java Loops
 
 <h3>Main</h3>
-<code>
 Enter the value: 7
 
                     7
