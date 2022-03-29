@@ -18,4 +18,9 @@ Enter the value: 7
               7  6  5  6  7
                  7  6  7
                     7
+  
+  
+  
+  
+  
 </code>
