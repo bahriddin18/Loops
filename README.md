@@ -1,7 +1,8 @@
 # Loops
 Java Loops
 
-<h3>Main</h3>
+Main
+-------------------
 Enter the value: 5
 
               5
@@ -13,8 +14,10 @@ Enter the value: 5
         5  4  3  4  5
            5  4  5
               5
+              
+Directory Structure
+-------------------
                
-               <h1>GGG</h1>
 
   
   
