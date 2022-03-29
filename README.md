@@ -17,7 +17,9 @@ Enter the value: 7
               7  6  5  6  7
                  7  6  7
                     7
-  
+                     
+Process finished with exit code 0
+
   
   
   
