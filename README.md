@@ -23,4 +23,3 @@ Enter the value: 7
   
   
   
-</code>
